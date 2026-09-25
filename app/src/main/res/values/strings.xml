@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">vivo高刷全开</string>
+    <string name="xposed_description">强制所有应用(含新装)使用高刷新率。作用域:系统进程(system_server)。可选排除名单:/data/system/vivohfr_exclude.txt,每行一个包名。</string>
+</resources>
